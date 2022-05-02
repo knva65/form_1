@@ -1,3 +1,7 @@
+::placeholder {
+  opacity: 0;
+}
+
 .login-box {
     position: absolute;
     top: 50%;
